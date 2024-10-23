@@ -5,3 +5,28 @@ body {
     height: 100vh;
    margin: 0%;
 }
+headerm{
+    background-color: var(--primary-color);
+    text-align: center;
+}
+  hl{
+    font-size: 2rem;
+    color:var(--bg-color);
+    font-weight: 700;
+  }
+  nav {
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+  }
+  nav a {
+    text-decoration: nome;
+    color: var(--bg-color);
+    margin: 0rem 2rem 3rem 0rem;
+  }
+  header{
+    background-color: var(--primary-color);
+    text-align:center;
+    padding: lpx;
+  }
+  
